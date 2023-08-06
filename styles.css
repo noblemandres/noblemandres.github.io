@@ -1,0 +1,87 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    /* background-image: url("https://www.solofondos.com/wp-content/uploads/2015/11/Fondos-para-p%C3%A1ginas-web.jpg"); */
+    background-image: url("https://img.freepik.com/fotos-premium/tecnologia-fondo-abstracto-color-azul-rosa_44621-1060.jpg");
+    background-size:contain ;
+    background-position: center;
+    color: #ffffff;
+}
+
+header {
+    /* background-color: rgba(0, 0, 0, 0.096); */
+    color: #ffffff;
+    text-align: center;
+    padding: 1rem;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 1.8rem;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+
+}
+
+section {
+    margin-bottom: 2rem;
+}
+
+h2 {
+    color: #ffffff;
+    /* background-color: rgba(0, 0, 0, 0.171); */
+    font-size: 1.2rem;
+    border-bottom: 2px solid #0000007c;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+ul {
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+p {
+    line-height: 1.6;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+#habilidades {
+    border-top: 3px solid #00000065;
+    padding-top: 1rem;
+}
+
+#estudios {
+    border-top: 3px solid #00000065;
+    padding-top: 1rem;
+}
+
+#profesionalexp {
+    border-top: 3px solid #00000065;
+    padding-top: 1rem;
+}
+
+#contacto {
+    border-top: 3px solid #00000065;
+    padding-top: 1rem;
+}
+
+
+img {
+    max-width: 15%;
+    height: 1;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
